@@ -5,7 +5,7 @@ import { toast } from "sonner";
 import { db } from "../../service/firbaseconfig";
 import InfoSection from "../component/InformationSection";
 import Hotels from "../component/Hotels";
-import PlacesToVisit from "../component/PlacestoVisits";
+import PlacesToVisit from "../component/PlacestoVisits.jsx";
 import Footer from "../../components/custom/Footer";
 
 function Viewtrip() {
