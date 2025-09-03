@@ -7,7 +7,7 @@ import CreateTrip from "./create-trip/index.jsx";
 import Header from "./components/custom/Header";
 import { Toaster } from "./components/ui/sonner";
 import { GoogleOAuthProvider } from '@react-oauth/google';
-import Viewtrip from "./view-trip/[tripid]/index.jsx";
+import Viewtrip from "./view-trip/[tripId]/index.jsx";
 import MyTrips from "./my-trips";
 import Footer from "./components/custom/Footer";
 
